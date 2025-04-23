@@ -19,10 +19,3 @@ public class ShoppingCart02 {
 
     }
 }
-    public class MoneyEchangeBasic {
-
-        public static void main(String[]args) {
-            System.out.print("Money Exchange");
-            
-        }
-    }
